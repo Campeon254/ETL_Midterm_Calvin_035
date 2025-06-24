@@ -1,0 +1,9 @@
+order_id,quantity,unit_price,order_date,prod_Laptop,prod_Tablet,reg_Central,reg_North,total_spend
+101,1.5,900.0,2024-05-09 00:00:00,True,False,True,False,1350.0
+102,1.0,300.0,2024-05-07 00:00:00,True,False,True,False,300.0
+103,1.0,600.0,2024-05-04 00:00:00,True,False,True,False,600.0
+104,1.5,300.0,2024-05-26 00:00:00,False,True,True,False,450.0
+105,2.0,600.0,2024-05-21 00:00:00,False,True,False,True,1200.0
+106,2.0,600.0,2024-05-18 00:00:00,True,False,True,False,1200.0
+107,1.0,600.0,2024-05-13 00:00:00,False,True,True,False,600.0
+109,2.0,600.0,2024-05-29 00:00:00,True,False,True,False,1200.0
