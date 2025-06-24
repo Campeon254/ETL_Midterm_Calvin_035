@@ -30,6 +30,7 @@ Located in: `etl_extraction.ipynb` file
 - Loaded `raw_data.csv` and `incremental_data.csv` using **Pandas**.
 - Inspected the data using `.info()`, `.head()`, and `.isnull()`.
 - Identified and reported missing values, duplicates, and unusual placeholders like `'?'`, `'N/A'`, or `'None'`.
+- Visualization for the difference between the raw data and incremental data.
 
 ### B) Transformation
 
@@ -82,7 +83,8 @@ Located in: `etl_loading.ipynb` file
 | **NumPy**                      | Numerical operations                 |
 | **PyArrow**                    | Parquet file support in Pandas       |
 | **Jupyter Notebook / VS Code** | Development environment              |
-| **Parquet**                    | Efficient storage and querying       |
+| **Parquet**                    | Columnar storage file format         |
+| **Matplotlib**                 | Data visualization                   |
 
 
 ---
@@ -151,6 +153,7 @@ ETL_Midterm_Calvin_035/
 ├── etl_extraction.py
 ├── etl_transformation.py
 ├── etl_loading.py
+├── Screenshots/
 └── README.md
 ```
 
